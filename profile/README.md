@@ -109,7 +109,7 @@ While most security tools specialize in single platforms, we offer true multi-pl
 
 ## Contact
 
-- Website: [www.obsedianguard.com](https://www.obsedian.live)
+- Website: [www.obsedian.live](https://www.obsedian.live)
 - Email: support@obsedian.live
 - Twitter: [@ObsedianGuard](https://twitter.com/ObsedianGuard)
 - LinkedIn: [ObsedianGuard](https://linkedin.com/company/obsedianguard)
