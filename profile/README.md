@@ -1,7 +1,7 @@
 <h1 align="center">ObsedianGuard</h1>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/07b5ea95-3fc5-4702-8808-7533660d0b1a" alt="ObsedianGuard Logo" width="200" height="200">
+  <img src="https://github.com/user-attachments/assets/b25979e1-05f3-4ab7-ae68-729bf6792a72" alt="ObsedianGuard Logo" width="200" height="200">
 </p>
 
 <p align="center">
